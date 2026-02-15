@@ -7,6 +7,7 @@
 - [anysize](https://st.suckless.org/patches/anysize/).
 - [alpha](https://st.suckless.org/patches/alpha/).
 - [scrollback](https://st.suckless.org/patches/scrollback/).
+- [xresources](https://st.suckless.org/patches/xresources/)
 
 ## Plans:
 

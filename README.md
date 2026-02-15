@@ -5,6 +5,7 @@
 ## Patches
 
 - [anysize](https://st.suckless.org/patches/anysize/).
+- [alpha](https://st.suckless.org/patches/alpha/).
 
 ## Plans:
 

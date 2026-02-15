@@ -8,6 +8,7 @@
 - [alpha](https://st.suckless.org/patches/alpha/).
 - [scrollback](https://st.suckless.org/patches/scrollback/).
 - [xresources](https://st.suckless.org/patches/xresources/)
+- [w3m images](https://st.suckless.org/patches/w3m/)
 
 ## Plans:
 

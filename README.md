@@ -1,6 +1,8 @@
 # ST
 
-*"st"* is a simple terminal implementation for X. 
+The earthyOS patched version of suckless' *st* terminal. With ease of life
+additions via patches found on the suckless.org website.
+
 
 ## Patches
 
@@ -9,9 +11,3 @@
 - [scrollback](https://st.suckless.org/patches/scrollback/).
 - [xresources](https://st.suckless.org/patches/xresources/)
 - [w3m images](https://st.suckless.org/patches/w3m/)
-
-## Plans:
-
-We plan on patching in all functionality required of a modern terminal
-emulator, along with some ease-of-life features. Such as alpha-transparency and
-`.Xresources` support.
